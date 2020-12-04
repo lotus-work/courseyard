@@ -1,4 +1,3 @@
-<img src="./assets/courseyard_webview.png">
 
 ## 💡 Introduction
 
