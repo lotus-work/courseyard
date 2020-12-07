@@ -1,6 +1,7 @@
 
-<h1>Courseyard</h1>
- <br><br>
+<h1>Courseyard</h1> <br><br>
+
+
 ## 💡 Introduction
 
 A handpicked collection of best free online learning resources on the Planet 🌎.
