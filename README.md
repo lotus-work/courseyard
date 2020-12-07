@@ -1,9 +1,11 @@
 
+<h3>Courseyard</h3>
+
 ## 💡 Introduction
 
 A handpicked collection of best free online learning resources on the Planet 🌎.
 
- ![HTML](https://img.shields.io/badge/-HTML-important)  ![CSS](https://img.shields.io/badge/-CSS-blue)![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
+ ![HTML](https://img.shields.io/badge/-HTML-important)  ![CSS](https://img.shields.io/badge/-CSS-blue) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)  ![FIREBASE](https://img.shields.io/badge/-FIREBASE-yellow)
 ## 🤩 Quirks 
 
 - Get the best **free**, **handpicked** learning resources available on the internet.
