@@ -3,7 +3,7 @@
 
 A handpicked collection of best free online learning resources on the Planet 🌎.
 
- ![HTML](https://img.shields.io/badge/-HTML-important)  ![CSS](https://img.shields.io/badge/-CSS-blue)![javascript](https://img.shields.io/badge/-javascript-yellow)
+ ![HTML](https://img.shields.io/badge/-HTML-important)  ![CSS](https://img.shields.io/badge/-CSS-blue)![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)
 ## 🤩 Quirks 
 
 - Get the best **free**, **handpicked** learning resources available on the internet.
