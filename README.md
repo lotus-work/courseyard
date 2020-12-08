@@ -8,6 +8,10 @@ A handpicked collection of best free online learning resources on the Planet ðŸŒ
 
  ![HTML](https://img.shields.io/badge/-HTML-important)  ![CSS](https://img.shields.io/badge/-CSS-blue) ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-yellow)  ![FIREBASE](https://img.shields.io/badge/-FIREBASE-yellow)
  <br><br>
+ 
+<img src"images/home.png">
+
+ <br><br>
 ## ðŸ¤© Quirks 
 
 - Get the best **free**, **handpicked** learning resources available on the internet.
