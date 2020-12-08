@@ -1,0 +1,238 @@
+.navbar-brand {
+  color: white !important;
+  font-size: 28px;
+  font-family: 'Karla', sans-serif;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 16px;
+
+  font-family: 'Karla', sans-serif;
+}
+
+.nav-item {
+  margin-right: 10px;
+
+}
+
+.nav-item:hover {
+  opacity: 0.5;
+}
+
+.heading-intro {
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+  color: white;
+  font-family: 'Lobster', cursive;
+}
+
+.pick-message {
+  font-family: 'Lobster', cursive;
+  padding-bottom: 30px;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .pick-message {
+    font-size: 22px;
+  }
+}
+
+.pick-message span {
+  color: rgb(39, 196, 196);
+}
+
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.card-body .title {
+  font-size: 24px;
+  font-family: 'Karla', sans-serif;
+  font-weight: 600;
+}
+
+.card-body .author {
+  font-size: 16px;
+  font-family: 'Proza Libre', sans-serif;
+}
+
+.card-body .desc {
+  font-size: 16px;
+  font-family: 'Proza Libre', sans-serif;
+  text-align: justify;
+
+}
+
+.desc {
+  height: 250px;
+}
+
+.btn-group button {
+  font-size: 16px;
+  font-family: 'Proza Libre', sans-serif;
+  margin-right: 8px;
+  margin-bottom: 10px;
+}
+
+.card-body .text-muted span {
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+
+/* SEARCH BAR */
+.search-bar {
+  padding-top: 3rem;
+  font-family: 'Proza Libre', sans-serif;
+
+}
+
+.search-bar input {
+  padding: 23px;
+  border-radius: 22px;
+}
+
+/* 
+Loader */
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #3498db;
+  width: 120px;
+  height: 120px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add animation to "page content" */
+.animate-bottom {
+  position: relative;
+  -webkit-animation-name: animatebottom;
+  -webkit-animation-duration: 1s;
+  animation-name: animatebottom;
+  animation-duration: 1s
+}
+
+@-webkit-keyframes animatebottom {
+  from {
+    bottom: -100px;
+    opacity: 0
+  }
+
+  to {
+    bottom: 0px;
+    opacity: 1
+  }
+}
+
+/* 
+about us
+ */
+.about {
+
+  background-color: #FBAB7E;
+  background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+}
+
+.about-intro {
+  margin-top: 90px;
+}
+
+.about-intro h1 {
+  color: white;
+
+  font-family: 'Karla', sans-serif;
+}
+
+.about-intro p {
+  padding: 20px;
+  font-size: 18px;
+  font-family: 'Proza Libre', sans-serif;
+  text-align: justify;
+
+}
+
+
+/*  Scroll bar modify */
+
+
+::-webkit-scrollbar {
+    width: 12px;
+
+    
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background-color:  rgb(236, 60, 29);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background-color:  rgb(190, 93, 76);
+  }
