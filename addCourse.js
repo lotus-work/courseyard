@@ -35,3 +35,4 @@ addCourse.addEventListener('click', e => {
         console.log(err.message);
     })
 })
+
