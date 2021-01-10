@@ -1,3 +1,4 @@
+
 function readData() {
     var CourseTitle, CourseTags, CourseDesc, CourseAuthor, CourseLink, content;
 
